@@ -8,6 +8,10 @@ FACE-RECOGNITION
 
 -Mail nurrohman ibrohim 1207050061 ( UI UX )
 
+- Yoss Sagita Ananto 1207050130 ( Fronted )
+
+- 
+
 #Promotion vidieo
 
 https://youtu.be/upL-X5H8R2k
