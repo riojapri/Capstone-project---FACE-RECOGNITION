@@ -9,6 +9,7 @@ FACE-RECOGNITION
 -Mail nurrohman ibrohim 1207050061 ( UI UX )
 
 #Promotion vidieo
+
 https://youtu.be/upL-X5H8R2k
 
 # Porposal - paper
